@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+BIGRU_model.keras
+tokenizer.pkl
