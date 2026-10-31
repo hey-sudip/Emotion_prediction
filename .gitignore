@@ -1,4 +1,4 @@
 .vscode
 __pycache__/
-BIGRU_model.keras
-tokenizer.pkl
+# BIGRU_model.keras
+# tokenizer.pkl
